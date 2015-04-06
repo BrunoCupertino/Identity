@@ -1,0 +1,13 @@
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Security.dll
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Security.pdb
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\EntityFramework.dll
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\EntityFramework.xml
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\obj\Debug\Security.dll
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\obj\Debug\Security.pdb
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
