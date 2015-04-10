@@ -1,1 +1,0 @@
-c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security.Repository\obj\Debug\Security.Repository.csprojResolveAssemblyReference.cache
