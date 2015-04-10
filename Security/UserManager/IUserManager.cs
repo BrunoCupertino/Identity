@@ -9,6 +9,8 @@ namespace Security.UserManager
     {
         Task<ClaimsIdentity> CreateIdentityAsync(Usuario usuario, string authenticationType);
         Task<IdentityResult> CreateAsync(Usuario usuario, string senha);
+        Task<IdentityResult> UpdateAsync(Usuario usuario);
         Task<Usuario> FindAsync(string usuario, string senha);
+        Task<Usuario> FindByEmailAsync(string email);        
     }
 }

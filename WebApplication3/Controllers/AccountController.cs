@@ -66,7 +66,13 @@ namespace WebApplication3.Controllers
         {
             if (ModelState.IsValid)
             {
-                await this.servicoUsuario.Registrar(model.Email, model.Password);
+                try
+                {
+                    await this.servicoUsuario.Registrar(model.Email, model.Password, "admin");
+                }
+                catch (System.Exception ex)
+                {
+                }
             }
 
             return View(model);

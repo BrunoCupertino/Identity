@@ -10,6 +10,6 @@ namespace Security.Servico
     public interface IServicoUsuario
     {
         Task<Usuario> LogOn(string email, string senha);
-        Task Registrar(string email, string password);
+        Task Registrar(string email, string password, string nomePerfil);
     }
 }

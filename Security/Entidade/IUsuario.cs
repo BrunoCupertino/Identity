@@ -10,5 +10,7 @@ namespace Security.Entidade
     public interface IUsuario
     {
         string Email { get; set; }
+        void AdicionarPerfil(string perfil);
+        bool PossuiPerfil(string perfil);
     }
 }

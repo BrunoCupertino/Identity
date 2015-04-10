@@ -21,7 +21,7 @@ namespace Security.UserManager
                 RequireDigit = true,
                 RequireLowercase = true,
                 RequireUppercase = true
-            };
+            };         
         }        
     }
 }

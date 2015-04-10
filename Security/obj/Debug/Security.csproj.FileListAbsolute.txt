@@ -11,3 +11,16 @@ c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\S
 c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\obj\Debug\Security.pdb
 c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 c:\users\bruno.cupertino\documents\visual studio 2013\Projects\WebApplication3\Security\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos\Identity\Security\bin\Debug\Security.dll
+C:\Projetos\Identity\Security\bin\Debug\Security.pdb
+C:\Projetos\Identity\Security\bin\Debug\EntityFramework.dll
+C:\Projetos\Identity\Security\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Identity\Security\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Identity\Security\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos\Identity\Security\bin\Debug\EntityFramework.xml
+C:\Projetos\Identity\Security\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Identity\Security\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos\Identity\Security\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos\Identity\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+C:\Projetos\Identity\Security\obj\Debug\Security.dll
+C:\Projetos\Identity\Security\obj\Debug\Security.pdb

@@ -39,9 +39,11 @@ namespace WebApplication3.App_Start
         private static void InitializeContainer(Container container)
         {
             container.RegisterPerWebRequest<IUserStore<Usuario>, UserStore>();
+            container.RegisterPerWebRequest<IRoleStore<IdentityRole, string>, RoleStore>();
             container.RegisterPerWebRequest<IdentityDbContext<Usuario>, DBContextUsuario>();
             container.RegisterPerWebRequest<IUserManager, UserManager>();
-            container.RegisterPerWebRequest<IServicoUsuario, ServicoUsuario>();
+            container.RegisterPerWebRequest<IRoleManager, RoleManager>();
+            container.RegisterPerWebRequest<IServicoUsuario, ServicoUsuario>();            
             container.RegisterPerWebRequest<IAuthenticationManager>(() => 
                 AdvancedExtensions.IsVerifying(container) ? 
                     new Microsoft.Owin.OwinContext(new Dictionary<string, object>()).Authentication : 

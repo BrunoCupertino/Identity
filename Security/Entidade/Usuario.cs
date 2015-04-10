@@ -20,5 +20,20 @@ namespace Security.Entidade
         {
             this.Email = userName;
         }
+
+        public void AdicionarPerfil(string perfil)
+        {
+            if (!this.PossuiPerfil(perfil))
+            {
+                this.Roles.Add(new IdentityUserRole { RoleId = perfil, UserId = this.Id });
+            }
+        }
+
+        public bool PossuiPerfil(string perfil)
+        {
+            var possuiPerfil = this.Roles.Select(r => r.RoleId).Contains(perfil);
+
+            return possuiPerfil;
+        }
     }
 }
